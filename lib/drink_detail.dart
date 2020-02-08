@@ -1,5 +1,4 @@
-import'material.dart';
-
+import 'package:flutter/material.dart';
 class DrinkDetail extends StatelessWidget {
   final drink;
 
